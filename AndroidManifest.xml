@@ -10,7 +10,7 @@
 
     <application>
         <activity
-                android:name=".As"
+                android:name=".MainActivity"
                 android:configChanges="orientation">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
