@@ -1,4 +1,4 @@
-package com.company.appname;
+package featurea.mavenForAndroidExample;
 
 import android.app.Activity;
 import android.os.Bundle;
